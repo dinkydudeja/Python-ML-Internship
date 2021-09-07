@@ -1,1 +1,1 @@
-# Python-ML-Internship
+# Inventory Management System
